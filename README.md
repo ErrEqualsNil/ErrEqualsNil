@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ErrEqualsNil
 - Studying at South China University of Technology
-- Interesting in Stock Price Prediction (Time Serises Prediction)
-- Learning Deep Learning and Machine Learning
+- Interesting in Edge Computing Scheduling(Offloading) & Deep Reinforcement Learning
+
